@@ -17,7 +17,7 @@ Installing Sprout v2 gives you access to all multitenancy features out of the bo
 - **Canopy** — Domain-based tenant identification with supporting functionality for managing tenant domains
 
 You can read more about the architecture and design decisions in
-the [spec repository](https://github.com/sprout-laravel/spec).
+the [technical specification](https://spec.sproutforlaravel.com) ([repository](https://github.com/sprout-laravel/spec)).
 
 ## Version 1
 
@@ -33,6 +33,7 @@ Documentation for Sprout is available at [sprout.ollieread.com](https://sprout.o
 ## Links
 
 - [Documentation](https://sprout.ollieread.com)
+- [Technical Specification](https://spec.sproutforlaravel.com) — Architecture documentation and design decisions ([repo](https://github.com/sprout-laravel/spec))
 - [GitHub Discussions](https://github.com/orgs/sprout-laravel/discussions)
 - [Twitter/X](https://x.com/laravelsprout)
 - [Bluesky](https://bsky.app/profile/sprout.ollieread.com)
